@@ -1,4 +1,4 @@
-# Dinosaur Game Clone
+# 🦖 Dinosaur Game Clone
 
 The Dinosaur Game (also known as the Chrome Dino) is a browser game developed by Google and built into the Google Chrome web browser that I recreated to practice and improve my skills. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score.
 
