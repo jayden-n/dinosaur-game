@@ -28,4 +28,4 @@ Deployed Website: https://dinosaur-game-9d840.web.app/
 
 ## Acknowledgements
 
-* The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
+* Google
