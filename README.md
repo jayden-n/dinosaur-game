@@ -15,5 +15,5 @@ Deployed Website: https://dinosaur-game-9d840.web.app/
 
 * HTML
 * CSS
-* JavaScript
+* JavaScript DOM
 
