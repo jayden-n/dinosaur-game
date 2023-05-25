@@ -6,11 +6,6 @@ The Dinosaur Game (also known as the Chrome Dino) is a browser game developed by
 
 Pressing `space` or any key will cause the dinosaur to "jump". As the game progresses, the speed of play gradually increases until the user hits an obstacle, prompting an instant.
 
-## Table of Contents
-* [Deployment](#deployment)
-* [Built With](#built-with)
-* [Author](#author)
-* [Acknowledgements](#acknowledgements)
 
 ## Deployment
 
@@ -22,10 +17,3 @@ Deployed Website: https://dinosaur-game-9d840.web.app/
 * CSS
 * JavaScript
 
-## Author
-
-**Jayden Nguyen**
-
-## Acknowledgements
-
-* Google
